@@ -1,13 +1,13 @@
 # AgriEnergy Prototype
 
-## 📦 Features
+Features
 - Farmers can add/view their own products.
 - Employees can add new farmers and view/filter product listings.
 - Secure login and role-based access (Farmer, Employee).
 - Responsive, user-friendly interface.
 - Real-time validation and error handling.
 
-## 🛠 Setup Instructions
+Setup Instructions
 1. Clone the repo.
 2. Run `Update-Database` in Package Manager Console.
 3. To Run the project.
@@ -21,17 +21,17 @@ run app all functionality should work
 
 4. Register users and assign roles.
 
-## 🚀 Running the App
+Running the App
 - Navigate to `/Account/Register` to create users.
 - Use seeded roles: `Farmer` or `Employee`.
 
-## 👥 User Roles
+ User Roles
 - **Farmer**: Adds products and views only their own.
 - **Employee**: Adds farmers, views all products.
 
 App
 
-## 📄 Author
+ Author
 - Kananelo
 
 Video of app running
