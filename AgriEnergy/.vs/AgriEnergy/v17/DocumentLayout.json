@@ -1,0 +1,618 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\products\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\products\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\farmers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\farmers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\farmers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\farmers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\farmers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\farmers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\services\\dummyemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\services\\dummyemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\agrienergy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\agrienergy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\approles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\approles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\views\\approles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\views\\approles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|c:\\users\\goits\\onedrive\\documentos\\github\\greenproblems\\agrienergy\\agrienergy\\migrations\\20250620202811_sqlcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7EF62C-1B30-4BD1-9073-C7004FC3CF75}|AgriEnergy\\AgriEnergy.csproj|solutionrelative:agrienergy\\migrations\\20250620202811_sqlcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FarmersController.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Controllers\\FarmersController.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Controllers\\FarmersController.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Controllers\\FarmersController.cs",
+              "RelativeToolTip": "AgriEnergy\\Controllers\\FarmersController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:45:35.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AgriEnergy\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAANkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:43:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:53:59.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "AgriEnergy\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAANAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:54:07.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Program.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Program.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Program.cs",
+              "RelativeToolTip": "AgriEnergy\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:03:42.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T01:38:05.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\appsettings.json",
+              "RelativeDocumentMoniker": "AgriEnergy\\appsettings.json",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\appsettings.json",
+              "RelativeToolTip": "AgriEnergy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T08:33:58.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "AgriEnergy\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:39:38.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Controllers\\AppRolesController.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Controllers\\AppRolesController.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Controllers\\AppRolesController.cs",
+              "RelativeToolTip": "AgriEnergy\\Controllers\\AppRolesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:07:55.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "AgriEnergy\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:39:14.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:26:15.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250620202811_SqlCreate.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Migrations\\20250620202811_SqlCreate.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Migrations\\20250620202811_SqlCreate.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Migrations\\20250620202811_SqlCreate.cs",
+              "RelativeToolTip": "AgriEnergy\\Migrations\\20250620202811_SqlCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:28:11.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AgriEnergy\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:12:41.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgriEnergy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:46:43.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T10:25:00.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Models\\Farmer.cs",
+              "RelativeToolTip": "AgriEnergy\\Models\\Farmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:02:25.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Index1.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Products\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Index1.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Products\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:51:44.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:50:05.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Models\\Product.cs",
+              "RelativeToolTip": "AgriEnergy\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:03:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DummyEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Services\\DummyEmailSender.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Services\\DummyEmailSender.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Services\\DummyEmailSender.cs",
+              "RelativeToolTip": "AgriEnergy\\Services\\DummyEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:44:09.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T11:11:13.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T12:07:30.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Farmers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Farmers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Farmers\\Edit.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Farmers\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:47:40.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "AgriEnergy\\Services\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "AgriEnergy\\Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:40:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T01:48:21.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T10:03:36.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Farmers\\Details.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Farmers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Farmers\\Details.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Farmers\\Details.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T12:20:28.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T12:32:42.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Farmers\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Farmers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Farmers\\Index.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Farmers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:41:37.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T09:47:20.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T10:03:37.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Farmers\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\Farmers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\Farmers\\Create.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\Farmers\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:05:26.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AgriEnergy\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AgriEnergy\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-13T16:10:55.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AgriEnergy\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AgriEnergy\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-13T12:53:45.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AgriEnergy.csproj",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\AgriEnergy.csproj",
+              "RelativeDocumentMoniker": "AgriEnergy\\AgriEnergy.csproj",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\AgriEnergy.csproj",
+              "RelativeToolTip": "AgriEnergy\\AgriEnergy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T12:52:34.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\AppRoles\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\AppRoles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\AppRoles\\Create.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\AppRoles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:29:38.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\AppRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgriEnergy\\Views\\AppRoles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goits\\OneDrive\\Documentos\\GitHub\\GreenProblems\\AgriEnergy\\AgriEnergy\\Views\\AppRoles\\Index.cshtml",
+              "RelativeToolTip": "AgriEnergy\\Views\\AppRoles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:20:05.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

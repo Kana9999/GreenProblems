@@ -1,0 +1,83 @@
+﻿@model IEnumerable<AgriEnergy.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-success"><i class="bi bi-box-seam"></i> Products</h2>
+
+    <!-- Search by Name or Farmer -->
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <form class="d-flex" asp-action="Index" method="get">
+                <input name="searchString" class="form-control me-2" type="search" placeholder="Search by name or farmer"
+                       value="@ViewData["CurrentFilter"]" />
+                <button class="btn btn-dark" type="submit"><i class="bi bi-search"></i> Search</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Advanced Filters -->
+    <form asp-action="Index" method="get" class="row g-3 mb-4">
+        <div class="col-md-3">
+            <input name="category" class="form-control" placeholder="Product Category"
+                   value="@ViewData["CurrentCategory"]" />
+        </div>
+        <div class="col-md-3">
+            <input name="startDate" class="form-control" type="date"
+                   value="@ViewData["StartDate"]" />
+        </div>
+        <div class="col-md-3">
+            <input name="endDate" class="form-control" type="date"
+                   value="@ViewData["EndDate"]" />
+        </div>
+        <div class="col-md-3">
+            <button class="btn btn-primary w-100" type="submit"><i class="bi bi-funnel"></i> Filter</button>
+        </div>
+    </form>
+
+    <!-- Create New Button -->
+    <div class="mb-3">
+        <a asp-action="Create" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Create New
+        </a>
+    </div>
+
+    <!-- Products Table -->
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover align-middle">
+            <thead class="table-light">
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.First().FarmerName)</th>
+                    <th>@Html.DisplayNameFor(model => model.First().ProductName)</th>
+                    <th>@Html.DisplayNameFor(model => model.First().category)</th>
+                    <th>@Html.DisplayNameFor(model => model.First().DateTime)</th>
+                    <th class="text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.FarmerName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.category)</td>
+                        <td>@item.DateTime.ToString("dd MMM yyyy")</td>
+                        <td class="text-center">
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-warning me-1">
+                                <i class="bi bi-pencil-square"></i> Edit
+                            </a>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info me-1">
+                                <i class="bi bi-info-circle"></i> Details
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">
+                                <i class="bi bi-trash"></i> Delete
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

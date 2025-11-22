@@ -1,0 +1,65 @@
+﻿@model AgriEnergy.Models.Farmer
+
+@{
+    ViewData["Title"] = "Farmer Details";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3 text-info">
+        <i class="bi bi-person-lines-fill"></i> Farmer Details
+    </h2>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-3 fw-bold">
+            @Html.DisplayNameFor(model => model.FarmerName)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.FarmerName)
+        </dd>
+
+        <dt class="col-sm-3 fw-bold">
+            @Html.DisplayNameFor(model => model.FarmerLastName)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.FarmerLastName)
+        </dd>
+
+        <dt class="col-sm-3 fw-bold">
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+
+        <dt class="col-sm-3 fw-bold">
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt class="col-sm-3 fw-bold">
+            @Html.DisplayNameFor(model => model.City)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.City)
+        </dd>
+
+        <dt class="col-sm-3 fw-bold">
+            @Html.DisplayNameFor(model => model.EmailAddress)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.EmailAddress)
+        </dd>
+    </dl>
+
+    <div class="mt-4 d-flex gap-2">
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning">
+            <i class="bi bi-pencil-square"></i> Edit
+        </a>
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left-circle"></i> Back to List
+        </a>
+    </div>
+</div>

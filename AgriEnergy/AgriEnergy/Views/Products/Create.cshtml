@@ -1,0 +1,69 @@
+﻿@model AgriEnergy.Models.Product
+
+@{
+    ViewData["Title"] = "Create Product";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3 text-success">
+        <i class="bi bi-plus-circle"></i> Create New Product
+    </h2>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+              @*   <div class="mb-3">
+                    <label asp-for="FarmerName" class="form-label">Farmer Name</label>
+                    <input asp-for="FarmerName" class="form-control" />
+                    <span asp-validation-for="FarmerName" class="text-danger small"></span>
+                </div> *@
+
+                <div class="mb-3">
+                    <label asp-for="ProductName" class="form-label">Product Name</label>
+                    <input asp-for="ProductName" class="form-control" />
+                    <span asp-validation-for="ProductName" class="text-danger small"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="category" class="form-label">Category</label>
+                    <input asp-for="category" class="form-control" />
+                    <span asp-validation-for="category" class="text-danger small"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="DateTime" class="form-label">Date</label>
+                    <input asp-for="DateTime" class="form-control" type="date" />
+                    <span asp-validation-for="DateTime" class="text-danger small"></span>
+                </div>
+
+                <div class="d-flex gap-2">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-check-circle"></i> Create
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left-circle"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@if (ViewBag.Errors != null)
+{
+    <ul class="text-danger">
+        @foreach (var error in ViewBag.Errors)
+        {
+            <li>@error</li>
+        }
+    </ul>
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
